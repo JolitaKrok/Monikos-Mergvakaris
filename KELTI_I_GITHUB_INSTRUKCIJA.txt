@@ -1,0 +1,3 @@
+Į GitHub kelk NE šį aplanką kaip vieną folderį, o visą šio aplanko VIDŲ.
+Repository pirmame puslapyje turi matytis: package.json, src, public, next.config.mjs.
+Būtinai turi būti: src/app ir public/candidates/01.jpg ... 17.jpg
